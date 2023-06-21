@@ -14,6 +14,7 @@ Merhaba KrediBul projesi katılmış olduğum Nitelikli Bilişim Uzmanı Yetişt
 
 - Anasayfa üzerinde seçmek istediğiniz kredi türüne göre yönlendirme yaptıktan sonra girdiğiniz vade ve kredi tutarını seçmiş olduğunuz kredinin apilerine göre hesaplar. Hesaplama sonuçlarını bootstrapten oluşturduğum cardlar ile sayfada api içinde ki tüm bankalara göre sonuçları yazdırır.
 
+Ekran resimlerini ve kaynak kodlara ait görüntüleri aşağıda bulabilirsiniz.
 
 ![Anasayfa](https://github.com/yusufkenankalkan/KrediBul-Sunumu/assets/125995539/33b9b05b-dc1d-4bd0-bdbd-9d83e4e9beeb)
 ![Anasayfa2](https://github.com/yusufkenankalkan/KrediBul-Sunumu/assets/125995539/f8decbde-b72e-4f51-8f79-c1015a081325)

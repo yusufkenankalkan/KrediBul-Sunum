@@ -1,6 +1,7 @@
 ## KrediBul Sunumu
 
 Merhaba KrediBul projesi katılmış olduğum Nitelikli Bilişim Uzmanı Yetiştirme Eğitimin sonunda tamamlamış olduğum bireysel projemdir. Bankaların güncel apilerini kredi türüne göre çekerek istediğiniz kredi türünde vade ve kredi tutarınıza uygun sonuçları sizlere yansıtır.
+Projenin tüm hakları bana aittir, kaynak kodları istemeniz halinde iletişime geçebilirsiniz.
 
 #### Teknik Özellikler
 - Proje .NET C# Aspnet MVC CORE alt yapısıyla yazıldı.
